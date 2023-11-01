@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: PhotoJournal
 email: ""
 description: "Photo Journal"
 url: "https://aeonach.github.io"
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://aeonach.github.io/photorama/gallery/"  
-  - JOURNAL: "https://aeonach.github.io/photorama/journal/"
-  - ABOUT: "https://aeonach.github.io/photorama/about/"
+  - GALLERY: "https://aeonach.github.io/PhotoJournal/gallery/"  
+  - JOURNAL: "https://aeonach.github.io/PhotoJournal/journal/"
+  - ABOUT: "https://aeonach.github.io/PhotoJournal/about/"
 
 # All translation keys
 translations:
