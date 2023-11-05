@@ -4,9 +4,9 @@ title:      "Alice in Wonderland"
 subtitle:   "Lewis Carroll"
 active: journal
 image:
-  feature: "pc001.jpg"
+  feature: "World-Map-Squish.jpg"
 date:       2016-03-25
-header-img: "img/postcover/pc001.jpg"
+header-img: "img/postcover/World-Map-Squish.jpg"
 tags: [tag01, tag02]
 categories: [cat01, cat02]
 comments: false
