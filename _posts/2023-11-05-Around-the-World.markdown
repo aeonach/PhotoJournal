@@ -6,7 +6,7 @@ active: journal
 author: David
 image:
   feature: "World-Map-2000.jpg"
-date:       2023-11-05 
+date: "2023-11-05" 
 header-img: "img/postcover/World-Map-2000.jpg"
 tags: Preparations
 categories:
